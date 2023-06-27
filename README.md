@@ -6,4 +6,4 @@ coverY: 0
 
 # Wellcome to Accupick3D
 
-Accupick3D\_4.1
+<figure><img src=".gitbook/assets/cover.jpg" alt=""><figcaption><p>Cover page</p></figcaption></figure>
