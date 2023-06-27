@@ -28,19 +28,19 @@ Welcome to the Solomon AccuPick 3D operations manual. By offering the possibilit
 
 ### System Requirements <a href="#_toc55830855" id="_toc55830855"></a>
 
-|                                                                                      |                                                 |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| Operating System                                                                     | Microsoft® Windows™ 10, 64-bit                  |
-| Processor                                                                            | Intel® Core™ i7-8xxx or higher                  |
-| RAM                                                                                  | 16GB or higher (32GB recommended)               |
-| I/O Ports                                                                            | USB 3.0 for Camera connection                   |
-| Gigabit Ethernet Adapter (TCP/IP) for Robot communication                            |                                                 |
-| Graphics Interface                                                                   | Winform based GUI (Requires .NET Framework 4.8) |
-| Core Library                                                                         | C++ / C# Library (Winform DLL)                  |
-| Graphics Card                                                                        | Nvidia® GeForce™ ≥1070 (VRAM: 8GB DDR5)         |
-| GPU Compute Capability: ≥ 6.1                                                        |                                                 |
-| Note: Recommended GPU memory is ≥8 GB to use additional Deep Learning features/tools |                                                 |
+| Operating System                                          | Microsoft® Windows™ 10, 64-bit                  |
+| --------------------------------------------------------- | ----------------------------------------------- |
+| Processor                                                 | Intel® Core™ i7-8xxx or higher                  |
+| RAM                                                       | 16GB or higher (32GB recommended)               |
+| I/O Ports                                                 | USB 3.0 for Camera connection                   |
+| Gigabit Ethernet Adapter (TCP/IP) for Robot communication |                                                 |
+| Graphics Interface                                        | Winform based GUI (Requires .NET Framework 4.8) |
+| Core Library                                              | C++ / C# Library (Winform DLL)                  |
+| Graphics Card                                             | Nvidia® GeForce™ ≥1070 (VRAM: 8GB DDR5)         |
+|                                                           | GPU Compute Capability: ≥ 6.1                   |
+
+<mark style="color:red;">**NOTE: Recommended GPU memory is ≥8 GB to use additional Deep Learning features/tools**</mark>
 
 For testing whether your system meets the hardware requirement, please download the Portable Freeware HWiNFO from [https://www.hwinfo.com/download/](https://www.hwinfo.com/download/)
 
-NOTE: The pictures contained in this manual are for reference only, depending on the camera or robot type, some parameters may not be available or the software may display different options.
+<mark style="color:red;">**NOTE: The pictures contained in this manual are for reference only, depending on the camera or robot type, some parameters may not be available or the software may display different options.**</mark>
