@@ -22,14 +22,14 @@ Before accessing the AccuPick 3D settings for their configuration, we highly rec
 
 <figure><img src="../.gitbook/assets/Disabling the Windows Firewal_1l.png" alt=""><figcaption></figcaption></figure>
 
-| 1.      Click the arrow on the task bar to show the hidden icons. |
-| ----------------------------------------------------------------- |
-| 2.      Click the “Windows Security” icon                         |
+| <ol><li>Click the arrow on the task bar to show the hidden icons.</li></ol> |
+| --------------------------------------------------------------------------- |
+| <ol start="2"><li>Click the “Windows Security” icon</li></ol>               |
 
 <figure><img src="../.gitbook/assets/Disabling the Windows Firewall_2.png" alt=""><figcaption></figcaption></figure>
 
-| 3.      Click the “Firewall & network protection” icon.                                                        |
-| -------------------------------------------------------------------------------------------------------------- |
-| 4.      Click the “Public network” icon, and under “Microsoft Defender Firewall”, switch the setting to “Off”. |
+| <ol start="3"><li>Click the “Firewall &#x26; network protection” icon.</li></ol>                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| <ol start="4"><li>Click the “Public network” icon, and under “Microsoft Defender Firewall”, switch the setting to “Off”.</li></ol> |
 
 <mark style="color:red;">**NOTE: Keep the firewall turned off and deny any communication request for Domain/Private networks while carrying out the robot configuration.**</mark>&#x20;
