@@ -8,6 +8,8 @@
 
 * [Windows Firewall](accupick-3d-initial-steps/windows-firewall.md)
 * [Login](accupick-3d-initial-steps/login.md)
+* [Camera Setup](accupick-3d-initial-steps/camera-setup.md)
+* [Robot Setup](accupick-3d-initial-steps/robot-setup.md)
 
 ## Group 1
 
